@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/flejz/hass-cyberpunk-2077-theme/workflows/.github/workflows/workflow.yml/badge.svg)](https://github.com/flejz/hass-cyberpunk-2077-theme/actions)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
-> The Cyberpunk 2077 Theme by @flejz
+> Cyberpunk 2077 Theme by @flejz updated to work with Home Assistant 2025.5/
 
 ## Reference GUI
 
